@@ -1,0 +1,15 @@
+Insert 22 19 475 1238 9742 0
+Find 22
+Insert 22 29 0
+Find 22
+Insert 12 96 44 109 0
+Insert 37 47 109 475 694 88 0
+FindMinPrice 475
+Insert 22 29 998 997 996 995 0
+Find 22
+FindMinPrice 475
+Delete 22
+Find 22
+End
+
+Output: 4142
